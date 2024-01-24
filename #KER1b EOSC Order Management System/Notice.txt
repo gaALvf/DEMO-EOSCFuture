@@ -1,1 +1,15 @@
+1. Licence 
+[GPL3]
 
+2. IP owner 
+[Cyfronet]
+
+3. Background 
+[Offering API:
+Dedicated API supporting providers to publish information about service offers
+
+Ordering API	
+Dedicated API supporting collection of information about customer orders]
+
+4. Third parties 
+[NA]
