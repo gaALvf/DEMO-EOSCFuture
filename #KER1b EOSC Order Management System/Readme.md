@@ -12,6 +12,12 @@ Software
 | Foreground | IP owner | license|
 |------------|----------|--------|
 |Offering API	- Further development of the dedicated API supporting providers to publish information about service offers, to create bundles of offers|Cyfronet|GPL3.0|
+|Ordering API - Further development of the dedicated API supporting collection of information about customer orders|Cyfronet|GPL3.0|
+|EOSC Marketplace- Interfaces towards the users and providers exposing the EOSC Order Management Service functions|Cyfronet|GPL3.0||
+|Updates to SOMBO code - Updates to SOMBO tool during EOSC Future|CNRS|Apache 2.0|
+|EOSC documentation about SOMBO - - Included as part of Catalogue and Marketplace documentation|CNRS|CC-BY|
+|Documentation about Order Management|EGI and Cyfronet|CC-BY|
+
 
 
 [Offering API	- Further development of the dedicated API supporting providers to publish information about service offers, to create bundles of offers
