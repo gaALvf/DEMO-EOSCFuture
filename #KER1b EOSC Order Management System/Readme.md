@@ -15,18 +15,18 @@ URLs to foreground
 Ordering API	
 Further development of the dedicated API supporting collection of information about customer orders, mainly focussed on the user interface and user experience]
 
-# URL to documentation  
+# URL to Results
 
-[https://github.com/cyfronet-fid/marketplace/blob/master/README.md]
+[https://github.com/cyfronet-fid/marketplace/blob/master/]
 
 # Background IP 
 
-[Offering API	
-Dedicated API supporting providers to publish information about service offers
-Ordering API	
-Dedicated API supporting collection of information about customer orders]
+[Offering API	(link)
+Dedicated API supporting providers to publish information about service offers (link)
+Ordering API	(link)
+Dedicated API supporting collection of information about customer orders] (license) [link]
 
-# Protection or licencing used 
+# Licensing
 [GPL3]
 
 # Further information
