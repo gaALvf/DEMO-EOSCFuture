@@ -41,3 +41,5 @@ Dedicated API supporting collection of information about customer orders] (licen
 See table above in Foreground Identification
 
 # Further information
+This software was produced a spart of the EOSC-Future project, financed by the European Union
+https://eoscfuture.eu/
