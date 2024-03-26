@@ -41,5 +41,6 @@ Dedicated API supporting collection of information about customer orders] (licen
 See table above in Foreground Identification
 
 # Further information
-This software was produced a spart of the EOSC-Future project, financed by the European Union
+This software was produced as part of the EOSC-Future project, financed by the European Union
+The EOSC Future project is co-funded by the European Union Horizon Programme call INFRAEOSC-03-2020 - Grant Agreement Number 101017536
 https://eoscfuture.eu/
