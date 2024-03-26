@@ -19,10 +19,6 @@ Software
 |Documentation about Order Management|EGI and Cyfronet|CC-BY|
 
 
-EOSC documentation about SOMBO- Included as part of Catalogue and Marketplace documentation (https://github.com/EOSC-PLATFORM/Software-Documentation/tree/devel/Technical%20Results/Catalogue%20and%20Marketplace%20(Athena-OpenAIRE-Cyfronet) 
-
-Documentation about Order Management - https://github.com/EOSC-PLATFORM/Software-Documentation/tree/devel/Technical%20Results/Order%20Management%20(EGI-Cyfronet)
-
 # URL to Results
 
 | Foreground | URL|
@@ -42,6 +38,6 @@ Ordering API	(link)
 Dedicated API supporting collection of information about customer orders] (license) [link]
 
 # Licensing
-[GPL3]
+See table above in Foreground Identification
 
 # Further information
