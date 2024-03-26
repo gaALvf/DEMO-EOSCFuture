@@ -19,25 +19,20 @@ Software
 |Documentation about Order Management|EGI and Cyfronet|CC-BY|
 
 
-
-[Offering API	- Further development of the dedicated API supporting providers to publish information about service offers, to create bundles of offers
-URLs to foreground
-Ordering API	
-Further development of the dedicated API supporting collection of information about customer orders, mainly focussed on the user interface and user experience
-
-Ordering API -Further development of the dedicated API supporting collection of information about customer orders, mainly focussed on the user interface and user experience	
-
-EOSC Marketplace- Interfaces towards the users and providers exposing the EOSC Order Management Service functions	
-
-Updates to SOMBO code	- Updates to SOMBO tool during EOSC Future	
-
 EOSC documentation about SOMBO- Included as part of Catalogue and Marketplace documentation (https://github.com/EOSC-PLATFORM/Software-Documentation/tree/devel/Technical%20Results/Catalogue%20and%20Marketplace%20(Athena-OpenAIRE-Cyfronet) 
 
 Documentation about Order Management - https://github.com/EOSC-PLATFORM/Software-Documentation/tree/devel/Technical%20Results/Order%20Management%20(EGI-Cyfronet)
 
 # URL to Results
 
-[https://github.com/cyfronet-fid/marketplace/blob/master/]
+| Foreground | URL|
+|------------|----------|
+|Offering API	- Further development of the dedicated API supporting providers to publish information about service offers, to create bundles of offers|  https://github.com/cyfronet-fid/marketplace/tree/master/swagger/v1|
+|Ordering API - Further development of the dedicated API supporting collection of information about customer orders|https://github.com/cyfronet-fid/marketplace/tree/master/swagger/v1 |
+|EOSC Marketplace- Interfaces towards the users and providers exposing the EOSC Order Management Service functions|https://github.com/cyfronet-fid/marketplace/tree/master||
+|Updates to SOMBO code - Updates to SOMBO tool during EOSC Future|https://gitlab.in2p3.fr/opsportal/eosc-opsportal.git |
+|EOSC documentation about SOMBO - - Included as part of Catalogue and Marketplace documentation| https://wiki.eoscfuture.eu/display/EOSCSMS/SOMBO+guide+-+for+shifters and https://wiki.eoscfuture.eu/display/EOSCSMS/SOMBO+guide+-+for+providers|
+|Documentation about Order Management|https://github.com/EOSC-PLATFORM/Software-Documentation/tree/devel/Technical%20Results/Order%20Management%20(EGI-Cyfronet) |
 
 # Background IP 
 
