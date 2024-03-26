@@ -1,13 +1,18 @@
 # Description
 
-[System to manage orders for services made through the central EOSC marketplace (directly from researcher-facing portal or potentially passed from other catalogues which display services pulled from the central catalogue). Collects customer/user requests with relevant data and passes these to providers via API, email, or other means. Supports collection of order metrics.
-(In the Core Service Portfolio, the Order Management System is part of the EOSC Catalogue and Marketplace)]
+System to manage orders for services made through the central EOSC marketplace (directly from researcher-facing portal or potentially passed from other catalogues which display services pulled from the central catalogue). Collects customer/user requests with relevant data and passes these to providers via API, email, or other means. Supports collection of order metrics.
+(In the Core Service Portfolio, the Order Management System is part of the EOSC Catalogue and Marketplace)
 
 # Result type
 
-[Software]
+Software
 
 # Foreground Identification
+
+| Foreground | IP owner | license|
+|------------|----------|--------|
+|Offering API	- Further development of the dedicated API supporting providers to publish information about service offers, to create bundles of offers|Cyfronet|GPL3.0|
+
 
 [Offering API	- Further development of the dedicated API supporting providers to publish information about service offers, to create bundles of offers
 URLs to foreground
