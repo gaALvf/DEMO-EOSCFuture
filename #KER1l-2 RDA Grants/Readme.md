@@ -22,6 +22,10 @@ Software
 
 | Foreground | IP owner | license|
 |------------|----------|--------|
+|EOSC Future Stakeholder Engagement & Communication Final Report - Project deliverable D10.2 - promotion of the calls and lessons learned. https://cordis.europa.eu/project/id/101017536/results|CSC|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
+|Methodology and Platform for the Management of the Calls and Call Guidelines - Project Deliverable D1.6. See chapter 5 for process description for RDA grantshttps://cordis.europa.eu/project/id/101017536/results|TGB|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
+|Dissemination material on the RDA website - Different presentatios of the open call grant teams, project goals and outputs disseminated through RDA website and other channels. See separate Disseminatio Artefacts table below |RDA|Copyright, with permissions for reproduction for
+personal, non-commercial use (https://www.rdalliance.org/disclaimerterms-use.html)
 
 
 
@@ -31,18 +35,16 @@ Software
 
 | Foreground | URL|
 |------------|----------|
-|IP Result	- Definition| URL|
-|IP Result	- Definition| URL|
-|IP Result	- Definition| URL|
-|IP Result	- Definition| URL|
-|IP Result	- Definition| URL|
-|IP Result	- Definition| URL|
+|EOSC Future Stakeholder Engagement & Communication Final Report - Project deliverable D10.2 - promotion of the calls and lessons learned. https://cordis.europa.eu/project/id/101017536/results |NONE|
+|Methodology and Platform for the Management of the Calls and Call Guidelines - Project Deliverable D1.6. See chapter 5 for process description for RDA grantshttps://cordis.europa.eu/project/id/101017536/results| NONE|
+|Dissemination material on the RDA website - Different presentatios of the open call grant teams, project goals and outputs disseminated through RDA website and other channels. See separate Disseminatio Artefacts table below| NONE|
+
 
 # Licensing
 See table above in Foreground Identification
 
 # Further information
-This documentation was produced as part of the EOSC-Future project, financed by the European Union.
+This software was produced as part of the EOSC-Future project, financed by the European Union.
 The EOSC Future project is co-funded by the European Union Horizon Programme call INFRAEOSC-03-2020 - Grant Agreement Number 101017536
 
 https://eoscfuture.eu/
