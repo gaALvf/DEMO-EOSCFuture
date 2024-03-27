@@ -6,7 +6,7 @@ Monitoring).
 
 # Result type
 
-Software
+Software and documentation
 
 # Foreground Identification
 
