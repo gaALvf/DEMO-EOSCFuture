@@ -19,7 +19,7 @@ Software and documentation.
 
 | Foreground | URL|
 |------------|----------|
-|BackEnd - the component developed to support the API and Storage mechanism for the Accountin of Services https://github.com/ARGOeu/ARGO-accounting| [URL] (https://github.com/ARGOeu/ARGO-accounting)|
+|BackEnd - the component developed to support the API and Storage mechanism for the Accountin of Services https://github.com/ARGOeu/ARGO-accounting| [URL] (/https://github.com/ARGOeu/ARGO-accounting)|
 
 # Licensing
 See table above in Foreground Identification
