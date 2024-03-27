@@ -17,7 +17,7 @@ Documentation
 
 | Foreground | URL|
 |------------|----------|
-|EOSC Future courses - https://knowledge-hub.eosc-portal.eu/ Learning and training resources created through the EOSC Future project and which are listed in EOSC Future IP result #KER6a|See detailed information in EOSC Future IP result #KER6A| NONE |
+|EOSC Future courses - https://knowledge-hub.eosc-portal.eu/ Learning and training resources created through the EOSC Future project and which are listed in EOSC Future IP result #KER6a | NONE |
 
 # Licensing
 See table above in Foreground Identification
