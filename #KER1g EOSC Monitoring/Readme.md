@@ -6,18 +6,19 @@ Monitoring).
 
 # Result type
 
-[XXXX]
+Software
 
 # Foreground Identification
 
 | Foreground | IP owner | license|
 |------------|----------|--------|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
+|Connectors for EOSC Monitoring for EOSC-Core - Updates for connectors for ARGO monitoring srvice for EOSC-Core|SRCE|Apache 2.0|
+|EOSC Monitoring for EOSC-Exchange - Additions to ARGO monitoring service for EOSC-Exchange (integrated with other components of EOSC-Core), including new features and capabilities added in
+EOSC Future (connectors, providers portal integrations, scripts, integration with market place...)|GRNET|Apache 2.0|
+|Expertise/knowledge on EOSC Monitoring (Documentation) - Documentation about monitoring platform and integrations https://argoeu.github.io/argo-monitoring/|GRNET, CNRS, SRCE (each for their parts)|CC-BY|
+|Documentation about EOSC - Technical documentation needed to deploy and run EOSC Monitoring|GRNET|CC-BY|
+|Monitoring|SRCE,CNRS|NONE|
+|EOSC Monitoring UI - The component that provides the web presentation layer and makes use of the API to fetch data|CNRS|Apache 2.0|
 
 # URL to Results
 
