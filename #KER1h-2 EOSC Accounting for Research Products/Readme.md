@@ -17,9 +17,7 @@ Software and documentation.
 
 | Foreground | URL|
 |------------|----------|
-|Software that extends the configuration of OpenAIRE UsageCounts software to collect statistics about EOSC Data Sources - Extension of UsageCounts back-end software: https://github.com/openaire/OpenAIRE-Piwik-DSpace 
-https://github.com/openaire/EPrints-OAPiwik 
-https://github.com/openaire/Generic-Matomo-Tracker| (-https://github.com/openaire/OpenAIREPiwik-DSpace -https://github.com/openaire/EPrintsOAPiwik -https://github.com/openaire/Generic- Matomo-Track)|
+|Software that extends the configuration of OpenAIRE UsageCounts software to collect statistics about EOSC Data Sources - Extension of UsageCounts back-end software: https://github.com/openaire/OpenAIRE-Piwik-DSpace, https://github.com/openaire/EPrints-OAPiwik , https://github.com/openaire/Generic-Matomo-Tracker| (https://github.com/openaire/OpenAIREPiwik-DSpace -https://github.com/openaire/EPrintsOAPiwik -https://github.com/openaire/Generic- Matomo-Track)|
 |Documentation about EOSC Accounting for Research Products - EOSC Accounting System for Research Products| NONE |
 
 # Licensing
