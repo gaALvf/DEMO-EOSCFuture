@@ -22,12 +22,10 @@ Software
 
 | Foreground | IP owner | license|
 |------------|----------|--------|
-|Drupal 8.9.16 -	Drupal is a free and open-source web content management system written in PHP and distributed under the GNU General Public License|Drupal community|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
+
+
+
+
 
 # URL to Results
 
