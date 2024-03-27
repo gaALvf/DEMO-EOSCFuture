@@ -15,9 +15,9 @@ Software and Documentation
 |Marine Data Viewer Helpdesk - Implementation of the EOSC Helpdesk as a service for Marine Data Viewer Helpdesk  |KIT|[AGPL3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)|
 |C-SCALE  Helpdesk - Implementation of the EOSC Helpdesk as a service for Marine Data Viewer C-SCALE   |KIT|[AGPL3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)|
 |GGUS Helpdesk - Implementation of the EOSC Helpdesk as a service for Marine Data Viewer GGUS  |KIT|[AGPL3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)|
-|Helpdesk Knowledgebase - A short list of articles to support users, agents and scientific communities in usage of the EOSC Helpdesk. |KIT|[CC-BY 4.0]([https://www.gnu.org/licenses/agpl-3.0.en.html](https://creativecommons.org/licenses/by/4.0/deed.es)|
-|EOSC Helpdesk: Architecture and Interoperability Guidelines - This EOSC-Core Interoperability Guideline is intended for the technical experts of service and resource providers that would like their services and/or resources to be interoperable or integrate with EOSC Core Services.  |KIT|[CC-BY 4.0]([https://www.gnu.org/licenses/agpl-3.0.en.html](https://creativecommons.org/licenses/by/4.0/deed.es)|
-|EOSC Helpdesk documentation |KIT|[CC-BY 4.0]([https://www.gnu.org/licenses/agpl-3.0.en.html](https://creativecommons.org/licenses/by/4.0/deed.es)|
+|Helpdesk Knowledgebase - A short list of articles to support users, agents and scientific communities in usage of the EOSC Helpdesk. |KIT|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
+|EOSC Helpdesk: Architecture and Interoperability Guidelines - This EOSC-Core Interoperability Guideline is intended for the technical experts of service and resource providers that would like their services and/or resources to be interoperable or integrate with EOSC Core Services.  |KIT|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
+|EOSC Helpdesk documentation |KIT|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
 
 
 
