@@ -22,12 +22,9 @@ Other results (including hardware)
 
 | Foreground | IP owner | license|
 |------------|----------|--------|
-|EOSC Core Infrastructure Proxy integration guide	|GRNET|CC-BY|
-|EOSC Core Infrastructure Proxy deployment guide	|GRNET |CC-BY|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
+|EOSC Core Infrastructure Proxy integration guide	- Information for connecting services to the the
+EOSC Core Infrastructure Proxy |GRNET|CC-BY|
+|EOSC Core Infrastructure Proxy deployment guide - Technical information for deploying and configuring the EOSC Core Infastructure Proxy	|GRNET |CC-BY|
 
 # URL to Results
 
