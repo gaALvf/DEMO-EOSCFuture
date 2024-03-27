@@ -16,7 +16,7 @@ Software and documentation
 |EOSC Monitoring for EOSC-Exchange - Additions to ARGO monitoring service for EOSC-Exchange (integrated with other components of EOSC-Core), including new features and capabilities added in EOSC Future (connectors, providers portal integrations, scripts, integration with market place...)| GRNET|[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)|
 |Expertise/knowledge on EOSC Monitoring (Documentation) - Documentation about monitoring platform and integrations https://argoeu.github.io/argo-monitoring/|GRNET, CNRS, SRCE (each for their parts)|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
 |Documentation about EOSC Monitoring - TDocumentation about monitoring platform and integrations|GRNET|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
-|Documentation about EOSC Monitoring - Technical documentation needed to deploy and run EOSC Monitoring| GRNET,SRCE,CNRS|NONE|
+|Documentation about EOSC Monitoring - Technical documentation needed to deploy and run EOSC Monitoring| GRNET,SRCE,CNRS|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
 |EOSC Monitoring UI - The component that provides the web presentation layer and makes use of the API to fetch data|CNRS|[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)|
 
 # URL to Results
