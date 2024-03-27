@@ -29,8 +29,8 @@ Other results (including hardware)
 
 | Foreground | URL|
 |------------|----------|
-|EOSC Core Infrastructure Proxy integration guide	- Information for connecting services to the the EOSC Core Infrastructure Proxy| [URL](https://github.com/rciam/eosc-core-infra-proxy-docs/blob/main/docs/service-integration-guide.md)|
-|EOSC Core Infrastructure Proxy deployment guide - Technical information for deploying and configuring the EOSC Core Infastructure Proxy| [URL](https://github.com/rciam/eosc-core-infra-proxy docs/blob/main/docs/deployment.md)|
+|EOSC Core Infrastructure Proxy integration guide	- Information for connecting services to the the EOSC Core Infrastructure Proxy| (https://github.com/rciam/eosc-core-infra-proxy-docs/blob/main/docs/service-integration-guide.md)|
+|EOSC Core Infrastructure Proxy deployment guide - Technical information for deploying and configuring the EOSC Core Infastructure Proxy| (https://github.com/rciam/eosc-core-infra-proxy docs/blob/main/docs/deployment.md)|
 
 
 # Licensing
