@@ -11,7 +11,7 @@ Software and documentation.
 | Foreground | IP owner | license|
 |------------|----------|--------|
 |GOCDB updates for EOSC Future - Generalise GOCDB to better support other communities: https://github.com/GOCDB/gocdb/pull/407 , https://github.com/GOCDB/gocdb/pull/411 ,https://github.com/GOCDB/gocdb/pull/412 , https://github.com/GOCDB/gocdb/pull/436 Refactoring EOS AAI Integration: https://github.com/GOCDB/gocdb/pull/430 Adding EOSC Logos to codebase: https://github.com/GOCDB/gocdb/pull/353 , https://github.com/GOCDB/gocdb/pull/440  Currently unmerged changes to further customise GOCDB for EOSC: Prod:https://github.com/gregcorbett/gocdb/tree/eosc_branding_changes , Preprod: https://github.com/gregcorbett/gocdb/tree/eosc_branding_changes_with_oidc |UKRI/STFC |[Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)|
-|EOSC Configuration Management documentation - Documentation about EOSC Configuration Management|UKRI/STFC|[CC-BY 4.0] (https://creativecommons.org/licenses/by/4.0/deed.es)|
+|EOSC Configuration Management documentation |UKRI/STFC|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
 
 
 # URL to Results
