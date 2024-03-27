@@ -8,18 +8,6 @@ Software and documentation.
 
 # Foreground Identification
 
-# Foreground Identification
-
-| Foreground | IP owner | license|
-|------------|----------|--------|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-|IP Result	Definition|IP Owner|License|
-
-
 | Foreground | IP owner | license|
 |------------|----------|--------|
 |Software that extends the configuration of OpenAIRE UsageCounts software to collect statistics about EOSC Data Sources	Definition - Extension of UsageCounts back-end software: -https://github.com/openaire/OpenAIREPiwik-DSpace -https://github.com/openaire/EPrintsOAPiwik -https://github.com/openaire/Generic-Matomo-Tracke| OpenAIRE AMKE| [CC-BY 4.0] (https://creativecommons.org/licenses/by/4.0/deed.es)|
