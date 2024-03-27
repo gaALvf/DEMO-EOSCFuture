@@ -1,5 +1,6 @@
 # Description
 EOSC Helpdesk acts as a single point of contact for all EOSC customers for requesting help, support and other requests. It provides ticket management and allows to track the inquiries related to EOSC services, resources, projects.
+This service is built on Zammad open source platform (https://zammad.org/ under the AGPL3.0 license) and leverages the [ISRM Incident and Service request Management](https://wiki.eoscfuture.eu/display/EOSCSMS/Incident+and+Service+Request+Management+-+ISRM)
 
 # Result type
 
