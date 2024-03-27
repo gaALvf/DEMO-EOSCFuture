@@ -12,7 +12,7 @@ Software
 | Foreground | IP owner | license|
 |------------|----------|--------|
 |Update of the EOSC Portal Website software - EOSC Portal homepage revamp based on a UX study conducted with interviews with users and creation of the EOSC in Practice Stories Page |Trust-IT|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
-|Update of the EOSC Portal Website content - News, events info, graphical banner and other materials for the EOSC Portal Website https://eosc-portal.eu/ , https://eosc-portal.eu/news-and-events/news,https://eosc-portal.eu/news-and-events/events |ARTIK|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
+|Update of the EOSC Portal Website content - News, events info, graphical banner and other materials for the EOSC Portal Website https://eosc-portal.eu/ , https://eosc-portal.eu/news-and-events/news , https://eosc-portal.eu/news-and-events/events |ARTIK|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
 |EOSC Portal website documentation - Documentation about the EOSC Portal web site|Trust-IT|[CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es)|
 
 # URL to Results
